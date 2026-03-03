@@ -1,0 +1,8 @@
+Time,API,Response,Latency
+20:26,https://www.google.com,200,0.475197
+20:27,https://www.google.com,200,0.372128
+20:45,https://www.google.com,200,0.38953
+20:45,https://www.google.com,200,0.386567
+20:45,https://www.google.com,200,0.353056
+20:45,https://www.google.com,200,0.361657
+20:45,https://www.google.com,200,0.413274
